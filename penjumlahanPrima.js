@@ -13,4 +13,4 @@ for(i=1;i<=angka;i++){
         tambah += i;
     }          
 }
-console.log(tambah);
+console.log(tambah,i);
