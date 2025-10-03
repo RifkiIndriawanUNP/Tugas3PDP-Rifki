@@ -1,3 +1,5 @@
+// Mohammad Rifki Indriawan
+
 let angka = 10
 let tambah = 0
 
