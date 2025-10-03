@@ -1,4 +1,4 @@
-let angka = 12
+let angka = 10
 let tambah = 0
 
 for(i=1;i<=angka;i++){
@@ -13,4 +13,5 @@ for(i=1;i<=angka;i++){
         tambah += i;
     }          
 }
-console.log(tambah,i);
+console.log("------- +");
+console.log(tambah);
