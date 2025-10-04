@@ -1,4 +1,8 @@
 // Mohammad Rifki Indriawan
+/*1. Buatlah program untuk menampilkan output bilangan prima setelah input
+bilangan tertentu! misal
+-input = 13, maka outputnya adalah 17
+-input = 8, maka outputnya adalah 11 */
 
 function prima(n){
     let faktor = 0
